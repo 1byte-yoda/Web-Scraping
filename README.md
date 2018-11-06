@@ -2,6 +2,7 @@
 Web Scrapping Indeed's job descriptions.
 
 Requirements:
+
 -BeautifulSoup 4.6.0
 -Numpy 1.14.5
 -Pandas 0.23.0
