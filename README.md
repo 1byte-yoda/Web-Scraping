@@ -1,5 +1,5 @@
 # Web-Scraping
-Web Scrapping Indeed's job descriptions.
+Web Scraping Indeed's job descriptions.
 
 Requirements:
 
